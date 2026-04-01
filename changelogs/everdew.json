@@ -1,0 +1,71 @@
+{
+  "gameId": "everdew",
+  "entries": [
+    {
+      "version": "0.4.2",
+      "date": "2026-03-05",
+      "title": "Small Adjustments and Fixes",
+      "text": "- Fixed a bug which caused animals that are dead to respawn after load\n- Top down sprite sorting should now be more reliable\n- Reverted amount of days Pigs, Cows and Sheeps survive without food back to 5 days\n- Re-added the tooltip for the seed buttons"
+    },
+    {
+      "version": "0.4.1",
+      "date": "2026-02-16",
+      "title": "Time & Save Fixes",
+      "text": "- Fixed an issue where the save and load system didn't accurately save the time of day \n- Fixed the day/night cycle so the day counter properly advances at midnight (12:00 AM) instead of sunrise \n- Fixed an issue where day/night lighting would slowly fade in when loading a save. The environment now instantly snaps to the correct time of day \n- Fixed an issue where time passed at inconsistent speeds during the day and night. The in-game clock now progresses at a steady, consistent rate through all daily phases \n- Fixed a bug where shop inventory would incorrectly reset to full stock when loading a saved game. Seed quantities now persist correctly between sessions \n- Turned off the Raycast for the fade out image so button clicks can be clickable during load \n- Removed some of the lights in the scene that turns on at night"
+    },
+    {
+      "version": "0.4.0",
+      "date": "2026-02-04",
+      "title": "Save & Load Update",
+      "text": "- Added the highly requested save and load system \n- Options can now be adjusted directly from the main menu \n- Slightly refined overall UI colors for better readability and style \n- Removed tooltips due to a UI-related issue (will be revisited in a future update)"
+    },
+    {
+      "version": "0.3.4",
+      "date": "2026-01-19",
+      "title": "Small additions and fixes",
+      "text": "- Added a fullscreen toggle in the pause menu \n- Added a resolution dropdown in the pause menu \n- Made the transition from main menu to game smoother"
+    },
+    {
+      "version": "0.3.3",
+      "date": "2026-01-11",
+      "title": "Hotfix 3",
+      "text": "- Changed the shop details UI to show what the shop sells instead of who the shop owner is \n- Improved the visuals for the shop details UI \n- Fixed the colours of butters sell UI"
+    },
+    {
+      "version": "0.3.2",
+      "date": "2026-01-11",
+      "title": "Hotfix 2",
+      "text": "- Fixed an where the info for perks would not display correctly \n- Fixed an a small typo issue in Margaine's shop UI"
+    },
+    {
+      "version": "0.3.1",
+      "date": "2026-01-11",
+      "title": "Hotfix 1",
+      "text": "- Some items were left out in the inventory that were used for testing purposes. These items have now been removed"
+    },
+    {
+      "version": "0.3.0",
+      "date": "2026-01-11",
+      "title": "Third release",
+      "text": "- Added volume slider in pause menu \n- Added Drag Fertilising Perk \n- Added info for perks\n- Fixed the box collider for one of the shops \n- Deselect items after 15 seconds of inactivity \n- Higher priced animals drops more fertiliser \n- Fixed a shop displaying the wrong name\n- Various bug fixes and quality of life improvements"
+    },
+    {
+      "version": "0.2.1",
+      "date": "2026-01-09",
+      "title": "Hotfix",
+      "text": "- Fixed an issue where shops would not restock properly after being purchased from"
+    },
+    {
+      "version": "0.2.0",
+      "date": "2026-01-09",
+      "title": "Second release",
+      "text": "- Added max stocks and restock mechanic\n- New Craig spawn points \n- Shop names and opening hours can be checked by clicking on the shop \n- Added Infected Crops that can be used in a the new Composter to obtain Golden Fertilizer \n- Outlines around various interactive objects for better visibility \n- Back button added to various menus for easier navigation \n- Lofi toggle added to pause menu \n- Added a interaction range to the barrels \n- Various bug fixes and quality of life improvements"
+    },
+    {
+      "version": "0.1.0",
+      "date": "2026-01-03",
+      "title": "First release",
+      "text": "- Fully functional core gameplay loop"
+    }
+  ]
+}
