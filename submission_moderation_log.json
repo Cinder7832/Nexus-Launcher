@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "logs": [
+    {
+      "id": "log_mni1ydeq_gzatm2x0",
+      "submissionId": "sub_mni1xufu_03bx59as",
+      "submissionType": "update",
+      "gameName": "Constructed",
+      "gameId": "constructed",
+      "action": "accept",
+      "reviewer": {
+        "id": "76e8e283-4b4e-4f4a-b8f8-ef05ac21745c",
+        "displayName": "Cinder",
+        "role": "owner"
+      },
+      "submittedBy": {
+        "id": "76e8e283-4b4e-4f4a-b8f8-ef05ac21745c",
+        "displayName": "Cinder",
+        "email": "asaidevanand2008@gmail.com"
+      },
+      "reviewedAt": "2026-04-02T22:34:36.678Z",
+      "denialReasonLabel": null,
+      "denialPresetKey": null,
+      "denialResponseMessage": null
+    }
+  ]
+}
