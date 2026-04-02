@@ -3,7 +3,7 @@
   "submissions": [
     {
       "id": "sub_mni1xufu_03bx59as",
-      "status": "pending",
+      "status": "accepted",
       "type": "update",
       "targetGameId": "constructed",
       "gameData": {
@@ -26,9 +26,18 @@
         "email": "asaidevanand2008@gmail.com"
       },
       "submittedAt": "2026-04-02T22:34:13.719Z",
-      "updatedAt": "2026-04-02T22:34:13.719Z",
-      "review": null,
-      "publishedGameId": null,
+      "updatedAt": "2026-04-02T22:34:36.678Z",
+      "review": {
+        "decision": "accept",
+        "reviewedBy": {
+          "id": "76e8e283-4b4e-4f4a-b8f8-ef05ac21745c",
+          "displayName": "Cinder",
+          "role": "owner"
+        },
+        "reviewedAt": "2026-04-02T22:34:36.678Z",
+        "denial": null
+      },
+      "publishedGameId": "constructed",
       "history": [
         {
           "id": "hist_mni1xufu_abj8u3iw",
@@ -40,6 +49,17 @@
           },
           "at": "2026-04-02T22:34:13.719Z",
           "note": "Submitted an update for review"
+        },
+        {
+          "id": "hist_mni1yc5i_ad72ifpv",
+          "action": "accepted",
+          "actor": {
+            "id": "76e8e283-4b4e-4f4a-b8f8-ef05ac21745c",
+            "displayName": "Cinder",
+            "role": "owner"
+          },
+          "at": "2026-04-02T22:34:36.678Z",
+          "note": "Accepted and published to store.json as constructed"
         }
       ]
     }
