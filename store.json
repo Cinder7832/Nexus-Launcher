@@ -303,13 +303,13 @@
       "categories": ["Tunnel", "Horror"],
       "developers": ["Devanand Asai", "Riley Gough", "Hiro Starritt"],
       "engine": "Unity Engine",
-      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-Line/cover.jpg",
-      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-Line/hero.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/hero.jpg",
       "videos": [],
       "images": [
-        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-Line/shot-1.jpg",
-        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-Line/shot-2.jpg",
-        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-Line/shot-3.jpg"
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/shot-2.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/shot-3.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/the-forgotten-line.json",
       "inputSupport": ["keyboardMouse", "controller"],
