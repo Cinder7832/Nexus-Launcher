@@ -10,7 +10,7 @@
       "developers": ["Isaac Nash"],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound/cover.jpg",
-      "heroUrl": "",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound/hero.jpg",
       "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/momentum-bound.json",
