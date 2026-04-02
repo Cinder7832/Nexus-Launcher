@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "owners": [
+    { "id": "76e8e283-4b4e-4f4a-b8f8-ef05ac21745c", "email": "asaidevanand2008@gmail.com", "displayName": "Cinder" }
+  ],
+  "ownerEmails": [],
+  "moderators": [
+    { "id": "10ecd1a9-741b-4ee0-80c9-d94891a7cd3d", "email": "devanandasai08@gmail.com", "displayName": "Dev" }
+  ]
+}
