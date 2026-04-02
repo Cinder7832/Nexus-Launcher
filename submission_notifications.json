@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "notifications": [
+    {
+      "id": "notif_mni1ycrv_hcn65m63",
+      "type": "submission_accepted",
+      "userId": "76e8e283-4b4e-4f4a-b8f8-ef05ac21745c",
+      "title": "Submission accepted",
+      "message": "Your submission \"Constructed\" was accepted and published.",
+      "submissionId": "sub_mni1xufu_03bx59as",
+      "denialReasonLabel": null,
+      "extraNotes": null,
+      "createdAt": "2026-04-02T22:34:36.678Z",
+      "readAt": null
+    }
+  ]
+}
