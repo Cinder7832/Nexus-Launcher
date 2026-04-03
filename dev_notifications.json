@@ -1,0 +1,17 @@
+{
+  "notifications": [
+    {
+      "id": "note_mniymcrr_a5rruu",
+      "userId": "76e8e283-4b4e-4f4a-b8f8-ef05ac21745c",
+      "type": "submission_denied",
+      "title": "Submission denied",
+      "message": "Your submission was denied because it does not meet the launcher quality bar yet.",
+      "createdAt": "2026-04-03T13:49:04.935Z",
+      "read": false,
+      "meta": {
+        "submissionId": "sub_mniyllak_m6k7qp",
+        "reasonKey": "too_low_quality"
+      }
+    }
+  ]
+}
