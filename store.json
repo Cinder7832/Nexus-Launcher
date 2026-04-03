@@ -227,9 +227,9 @@
       "name": "Constructed",
       "description": "A platformer based in a construction site",
       "version": "0.1.0",
-      "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/constructed-v0.1.0/Constructed.zip",
-      "categories": ["Platformer"],
-      "developers": ["Devanand Asai"],
+      "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/constructed-v1.0.0/Constructed.zip",
+      "categories": [ "Platformer" ],
+      "developers": [ "Devanand Asai" ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/constructed/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/constructed/hero.jpg",
       "videos": [],
@@ -239,7 +239,7 @@
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/constructed/shot-3.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/constructed.json",
-      "inputSupport": ["keyboardMouse", "controller"],
+      "inputSupport": [ "keyboardMouse", "controller" ],
       "downloadSizeBytes": null
     },
     {
