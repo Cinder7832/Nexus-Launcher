@@ -4,7 +4,7 @@
       "id": "sub_mniz3svk_jkifd5",
       "ownerId": "76e8e283-4b4e-4f4a-b8f8-ef05ac21745c",
       "ownerName": "asaidevanand2008@gmail.com",
-      "status": "pending",
+      "status": "denied",
       "submissionType": "update",
       "targetGameId": "constructed",
       "gamePayload": {
@@ -30,12 +30,12 @@
         "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/constructed.json"
       },
       "createdAt": "2026-04-03T14:02:38.960Z",
-      "updatedAt": "2026-04-03T14:02:38.960Z",
-      "reviewedAt": null,
-      "reviewedBy": null,
-      "denialReasonKey": null,
-      "denialReasonLabel": null,
-      "denialMessage": null,
+      "updatedAt": "2026-04-03T14:04:23.402Z",
+      "reviewedAt": "2026-04-03T14:04:23.401Z",
+      "reviewedBy": "76e8e283-4b4e-4f4a-b8f8-ef05ac21745c",
+      "denialReasonKey": "too_low_quality",
+      "denialReasonLabel": "Too low quality",
+      "denialMessage": "Your submission was denied because it does not meet the launcher quality bar yet.",
       "publishedGameId": null
     },
     {
