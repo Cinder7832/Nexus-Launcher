@@ -7,7 +7,7 @@
       "title": "Submission denied",
       "message": "Your submission was denied because it does not meet the launcher quality bar yet.",
       "createdAt": "2026-04-03T14:04:23.402Z",
-      "read": false,
+      "read": true,
       "meta": {
         "submissionId": "sub_mniz3svk_jkifd5",
         "reasonKey": "too_low_quality"
