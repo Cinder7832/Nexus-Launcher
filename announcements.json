@@ -18,19 +18,6 @@
       "body": [
         "Touhou But Peak is now available to play!"
       ]
-    },
-    {
-      "id": "everdew-v0.4.2",
-      "title": "Everdew Update!",
-      "date": "2026-03-05",
-      "tag": "New Update",
-      "body": [
-        "Everdew — Version 0.4.2 Update!",
-        "- Fixed a bug which caused animals that are dead to respawn after load",
-        "- Top down sprite sorting should now be more reliable",
-        "- Reverted amount of days Pigs, Cows and Sheeps survive without food back to 5 days",
-        "- Re-added the tooltip for the seed buttons"
-      ]
     }
   ]
 }
