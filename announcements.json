@@ -1,6 +1,15 @@
 {
   "announcements": [
     {
+      "id": "eroded-sands",
+      "title": "Eroded Sands Announcement",
+      "date": "2026-04-08",
+      "tag": "New Game",
+      "body": [
+        "Eroded Sands is now available to play!"
+      ]
+    },
+    {
       "id": "nexus-launcher-4-0-0-update",
       "title": "Nexus Launcher 4.0.0 Update",
       "date": "2026-04-03",
@@ -72,15 +81,6 @@
       "tag": "Full Release",
       "body": [
         "Momentum Bound is now available to play!"
-      ]
-    },
-    {
-      "id": "touhou-but-peak-announcement",
-      "title": "Touhou But Peak Announcement!",
-      "date": "2026-03-20",
-      "tag": "New Game",
-      "body": [
-        "Touhou But Peak is now available to play!"
       ]
     }
   ]

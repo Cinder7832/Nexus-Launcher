@@ -1,6 +1,23 @@
 {
   "games": [
     {
+      "id": "eroded-sands",
+      "name": "Eroded Sands",
+      "description": "3D environment set in a desert",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/eroded-sands-v1.0.0/Eroded.Sands.zip",
+      "categories": [ "3D" ],
+      "developers": [ "Devanand Asai" ],
+      "engine": "Unreal Engine",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/eroded-sands/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/eroded-sands/hero.jpg",
+      "videos": [],
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/eroded-sands.json",
+      "inputSupport": [ "keyboardMouse" ],
+      "downloadSizeBytes": null
+    },
+    {
       "id": "momentum-bound",
       "name": "Momentum Bound",
       "description": "Have you ever been trapped in your own head? Tortured by the misdeeds of your past? Find out if you can escape in Momentum Bound",
