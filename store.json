@@ -12,7 +12,10 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/eroded-sands/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/eroded-sands/hero.jpg",
       "videos": [],
-      "images": [],
+      "images": 
+      [
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/high-time/shot-1.jpg"
+      ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/eroded-sands.json",
       "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
