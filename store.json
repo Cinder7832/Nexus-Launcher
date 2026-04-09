@@ -32,7 +32,10 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound/cover.jpg",
       "heroUrl": "",
       "videos": [],
-      "images": [],
+      "images": 
+      [
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound/shot-1.jpg"
+      ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/momentum-bound.json",
       "inputSupport": ["keyboardMouse"],
       "downloadSizeBytes": null
