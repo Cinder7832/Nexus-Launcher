@@ -2,27 +2,27 @@
   "collections": [
     {
       "title": "Craig Series",
-      "gameIds": ["momentumbounddemo", "rhat", "hightime", "spillways", "momentum", "everdew"]
+      "gameIds": ["momentum-bound","momentum-bound-demo", "rhat", "hightime", "spillways", "momentum", "everdew"]
     },
     {
       "title": "Momentum Series",
-      "gameIds": ["momentum-bound","momentumbounddemo", "momentum"]
+      "gameIds": ["momentum-bound","momentum-bound-demo", "momentum"]
     },
     {
       "title": "2D",
-      "gameIds": ["touhou-but-peak","mag-curse", "stride-zero", "aknightsleapoffaith", "momentumbounddemo", "rhat", "slimeimpact2d", "earthling", "cubo", "everdew"]
+      "gameIds": ["touhou-but-peak","mag-curse", "stride-zero", "a-knights-leap-of-faith", "momentum-bound-demo", "rhat", "slime-impact-2d", "earthling", "cubo", "everdew"]
     },
     {
       "title": "Game Jam",
-      "gameIds": ["everdew", "smallproblems"]
+      "gameIds": ["everdew", "small-problems"]
     },
     {
       "title": "Third Person Platformer",
-      "gameIds": ["hightime", "momentum", "constructed", "slimeimpact"]
+      "gameIds": ["high-time", "momentum", "constructed", "slime-impact"]
     },
     {
       "title": "Horror Games",
-      "gameIds": ["theforgottenline", "spillways"]
+      "gameIds": ["the-forgotten-line", "spillways"]
     }
   ]
 }
