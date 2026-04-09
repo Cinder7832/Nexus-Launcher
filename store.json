@@ -6,7 +6,7 @@
       "description": "A small scale 3D desert diorama",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/eroded-sands-v1.0.0/Eroded.Sands.zip",
-      "categories": [ "3D" ],
+      "categories": [ "3D", "Diorama" ],
       "developers": [ "Devanand Asai" ],
       "engine": "Unreal Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/eroded-sands/cover.jpg",
