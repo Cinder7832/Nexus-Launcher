@@ -1,6 +1,22 @@
 {
   "announcements": [
     {
+      "id": "momentum-bound-1-1-0-update",
+      "title": "Momentum Bound 1.1.0 Update",
+      "date": "2026-04-12",
+      "tag": "Game Update",
+      "body": [
+        "Momentum Bound has been updated to version 1.1.0.",
+        "Fixes & Improvements",
+        "- Fixed an issue when at full health, the player took red heart damage instead of spirit hearts, where viable.",
+        "- Fixed bug where banana only granted player the heart upgrade on the floor after it had been picked up.",
+        "- Fixed the item 'Guilt Soaked Ledger' where the UI clipped on wider screens.",
+        "- Changed the damage SFX for the player, as consensus was that the original sound was annoying and off-putting.",
+        "- Fixed bug where if the player clipped into a certain wall in the Craig Floor, they would be set to one health, have all items stripped from them and be transported to the 'Nightmare Zone'.",
+        "- Located and removed 'Nightmare Zone'."
+      ]
+    },
+    {
       "id": "eroded-sands",
       "title": "Eroded Sands Announcement",
       "date": "2026-04-08",
@@ -39,7 +55,7 @@
         "A new shortcut has been added: double-clicking a game card will now:",
         "- Launch the game if it is installed",
         "- Download the game if it is not installed",
-        "Social & Account Features",
+        "Social &amp; Account Features",
         "- Added support for profile pictures",
         "- Playtime for games now syncs to your account",
         "- Names can now include apostrophes",
@@ -47,7 +63,7 @@
         "- Added dislikes to comments",
         "- Pressing Enter now sends text in both Comments and Friends",
         "- Friends are now sorted by activity",
-        "Library, Store & Game Management",
+        "Library, Store &amp; Game Management",
         "- The Library now automatically detects and validates Store games in the install folder",
         "- Added an Update All button",
         "- Added Open Folder for the install folder in Settings",
@@ -57,14 +73,14 @@
         "- Improved the right-click context menu in the Library by showing the game name and adding shortcuts for:",
         "- Auto Update",
         "- Uninstall",
-        "User Interface & Visual Improvements",
+        "User Interface &amp; Visual Improvements",
         "- Offline mode now shows better information across the launcher, including the Store and Details pages",
         "- Changed the colour of the Unlock All Games and Uninstall All Games buttons to red",
         "- Added a subtle animation when expanding a reply",
         "- Added a highlight colour and upward transform animation for games inside Recents in Downloads",
         "- Removed input support icons from the Details page",
         "- Total disk space used is now shown in Settings",
-        "Notifications & Messaging",
+        "Notifications &amp; Messaging",
         "- Added message notifications for Friends",
         "- Added notification settings so you can choose who can notify you, or disable notifications completely",
         "Bug Fixes",
@@ -72,15 +88,6 @@
         "- Fixed an issue where the Downloads list and Recents did not update properly when installing many games simultaneously",
         "- Fixed the category filter scrollbar in the Store",
         "- Fixed screen flashing when opening Nexus Launcher with the Store page set as default"
-      ]
-    },
-    {
-      "id": "momentum-bound-announcement",
-      "title": "Momentum Bound Announcement!",
-      "date": "2026-03-26",
-      "tag": "Full Release",
-      "body": [
-        "Momentum Bound is now available to play!"
       ]
     }
   ]

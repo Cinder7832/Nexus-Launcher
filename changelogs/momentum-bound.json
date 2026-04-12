@@ -2,6 +2,12 @@
   "gameId": "momentum-bound",
   "entries": [
     {
+      "version": "1.1.0",
+      "date": "2026-04-12",
+      "title": "Update 1.1.0",
+      "text": "- Fixed an issue when at full health, the player took red heart damage instead of spirit hearts, where viable.\n- Fixed bug where banana only granted player the heart upgrade on the floor after it had been picked up.\n- Fixed the item 'Guilt Soaked Ledger' where the UI clipped on wider screens.\n- Changed the damage SFX for the player, as consensus was that the original sound was annoying and off-putting.\n- Fixed bug where if the player clipped into a certain wall in the Craig Floor, they would be set to one health, have all items stripped from them and be transported to the 'Nightmare Zone'.\n- Located and removed 'Nightmare Zone'."
+    },
+    {
       "version": "1.0.0",
       "date": "2026-03-26",
       "title": "Initial Release",
