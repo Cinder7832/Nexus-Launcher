@@ -1,23 +1,41 @@
 {
   "games": [
     {
+      "id": "blue-lock-clicker",
+      "name": "Blue Lock Clicker",
+      "description": "A fan game game of the Blue Lock series where you touch the plushie counterparts of them.",
+      "version": "0.1.0",
+      "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/blue-lock-clicker-v0.1.0/Blue.Lock.Clicker.zip",
+      "categories": [ "2D" ],
+      "developers": [ "Riley Gough" ],
+      "engine": "Unity Engine",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/blue-lock-clicker/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/blue-lock-clicker/hero.jpg",
+      "videos": [],
+      "images": [
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/blue-lock-clicker/shot-1.jpg"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/blue-lock-clicker.json",
+      "inputSupport": [ "keyboardMouse" ],
+      "downloadSizeBytes": null
+    },
+    {
       "id": "eroded-sands",
       "name": "Eroded Sands",
       "description": "A small scale 3D desert diorama",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/eroded-sands-v1.0.0/Eroded.Sands.zip",
-      "categories": ["3D", "Diorama"],
-      "developers": ["Devanand Asai"],
+      "categories": [ "3D", "Diorama" ],
+      "developers": [ "Devanand Asai" ],
       "engine": "Unreal Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/eroded-sands/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/eroded-sands/hero.jpg",
       "videos": [],
-      "images": 
-      [
+      "images": [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/eroded-sands/shot-1.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/eroded-sands.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     },
     {
@@ -26,18 +44,17 @@
       "description": "Have you ever been trapped in your own head? Tortured by the misdeeds of your past? Find out if you can escape in Momentum Bound",
       "version": "1.1.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/momentum-bound-v1.1.0/Momentum.Bound.zip",
-      "categories": ["2D", "Roguelike"],
-      "developers": ["Isaac Nash"],
+      "categories": [ "2D", "Roguelike" ],
+      "developers": [ "Isaac Nash" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound/hero.jpg",
       "videos": [],
-      "images": 
-      [
+      "images": [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound/shot-1.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/momentum-bound.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     },
     {
@@ -46,15 +63,15 @@
       "description": "Peak",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/touhou-but-peak-v1.0.0/Touhou.But.Peak.zip",
-      "categories": ["2D", "Bullet Hell"],
-      "developers": ["Hiro Starritt"],
+      "categories": [ "2D", "Bullet Hell" ],
+      "developers": [ "Hiro Starritt" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/touhou-but-peak/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/touhou-but-peak/hero.jpg",
       "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/touhou-but-peak.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     },
     {
@@ -63,15 +80,15 @@
       "description": "Magnesium",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/mag-curse-v1.0.0/Mag-Curse.zip",
-      "categories": ["2D", "Platformer"],
-      "developers": ["Maksymilian Gorminski"],
+      "categories": [ "2D", "Platformer" ],
+      "developers": [ "Maksymilian Gorminski" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/mag-curse/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/mag-curse/hero.jpg",
       "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/mag-curse.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     },
     {
@@ -80,15 +97,15 @@
       "description": "Full game coming soon",
       "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/stride-zero-v1.0.0/Stride.Zero.zip",
-      "categories": ["2D"],
-      "developers": ["Johan Cardozo"],
+      "categories": [ "2D" ],
+      "developers": [ "Johan Cardozo" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/stride-zero/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/stride-zero/hero.jpg",
       "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/stride-zero.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     },
     {
@@ -97,15 +114,15 @@
       "description": "Pain",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/a-knights-leap-of-faith-v1.0.0/A.Knights.Leap.of.Faith.zip",
-      "categories": ["2D", "Platformer"],
-      "developers": ["Ben Freeman"],
+      "categories": [ "2D", "Platformer" ],
+      "developers": [ "Ben Freeman" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/a-knights-leap-of-faith/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/a-knights-leap-of-faith/hero.jpg",
       "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/a-knights-leap-of-faith.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     },
     {
@@ -114,8 +131,8 @@
       "description": "Have you ever been trapped in your own head? Tortured by the misdeeds of your past? Find out if you can escape in Momentum Bound",
       "version": "0.2.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/momentum-bound-demo-v0.2.0/Momentum.Bound.Demo.zip",
-      "categories": ["2D", "Roguelike"],
-      "developers": ["Isaac Nash"],
+      "categories": [ "2D", "Roguelike" ],
+      "developers": [ "Isaac Nash" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound-demo/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound-demo/hero.png",
@@ -125,7 +142,7 @@
       ],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/momentum-bound-demo.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     },
     {
@@ -134,15 +151,15 @@
       "description": "hey hey hey this is my game rhat please leave any comments of anything i could add, i will be trying to add as much as i can. for now this is just an early version",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/rhat-v1.0.0/Rhat.zip",
-      "categories": ["2D", "Platformer"],
-      "developers": ["Gigglesaurus"],
+      "categories": [ "2D", "Platformer" ],
+      "developers": [ "Gigglesaurus" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/rhat/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/rhat/hero.jpg",
       "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/rhat.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     },
     {
@@ -151,15 +168,15 @@
       "description": "The 2D sequel to Slime Impact covering the journey of Hu Tao who’s quest is to bring Slime King’s evil reign to an end and save Lady Furina, the Archon of Fontaine.",
       "version": "3.0.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/slime-impact-2d-v3.0.0/Slime.Impact.2D.zip",
-      "categories": ["2D", "Metroidvania"],
-      "developers": ["Riley Gough"],
+      "categories": [ "2D", "Metroidvania" ],
+      "developers": [ "Riley Gough" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/slime-impact-2d/cover.jpg",
       "heroUrl": "",
       "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/slime-impact-2d.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     },
     {
@@ -168,15 +185,15 @@
       "description": "",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/earthling-v1.0.0/Earthling.zip",
-      "categories": ["2D"],
-      "developers": ["Lauren"],
+      "categories": [ "2D" ],
+      "developers": [ "Lauren" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/earthling/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/earthling/hero.jpg",
       "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/earthling.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     },
     {
@@ -185,21 +202,20 @@
       "description": "Craig is evil and he does bad things.",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/high-time-v1.0.0/High.Time.zip",
-      "categories": ["3D", "Platformer"],
-      "developers": ["Hiro Starritt"],
+      "categories": [ "3D", "Platformer" ],
+      "developers": [ "Hiro Starritt" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/high-time/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/high-time/hero.jpg",
       "videos": [],
-      "images": 
-      [
+      "images": [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/high-time/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/high-time/shot-2.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/high-time/shot-3.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/high-time/shot-4.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/high-time.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     },
     {
@@ -208,19 +224,18 @@
       "description": "Because of the tale of the rat man, your friends decided to dare you to explore a sewer. Armed with nothing but a lighter, you must uncover the secrets that lie within. Soon you'll realise all is not as it seems...",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/spillways-v1.0.0/Spillways.zip",
-      "categories": ["3D", "Tunnel", "Horror"],
-      "developers": ["The Lonely Devs", "Isaac Nash", "Katherine Allen"],
+      "categories": [ "3D", "Tunnel", "Horror" ],
+      "developers": [ "The Lonely Devs", "Isaac Nash", "Katherine Allen" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/spillways/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/spillways/hero.jpg",
       "videos": [],
-      "images": 
-      [
+      "images": [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/spillways/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/spillways/shot-2.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/spillways.json",
-      "inputSupport": ["keyboardMouse", "controller"],
+      "inputSupport": [ "keyboardMouse", "controller" ],
       "downloadSizeBytes": null
     },
     {
@@ -229,8 +244,8 @@
       "description": "You must escape! You are a lost soul, determined to claw your way out of hell, to find a better place, can you make the climb?",
       "version": "3.1.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/momentum-v3.1.0/Momentum.zip",
-      "categories": ["3D", "Platformer"],
-      "developers": ["Isaac Nash"],
+      "categories": [ "3D", "Platformer" ],
+      "developers": [ "Isaac Nash" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum/hero.jpg",
@@ -246,14 +261,13 @@
       "description": "A pixel art metroidvania",
       "version": "0.2.11",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/cubo-v0.2.11/Cubo.zip",
-      "categories": ["2D", "Metroidvania"],
-      "developers": ["Devanand Asai"],
+      "categories": [ "2D", "Metroidvania" ],
+      "developers": [ "Devanand Asai" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/cubo/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/cubo/hero.jpg",
       "videos": [],
-      "images": 
-      [
+      "images": [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/cubo/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/cubo/shot-2.jpg"
       ],
@@ -267,20 +281,19 @@
       "description": "A platformer based in a construction site",
       "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/constructed-v1.0.0/Constructed.zip",
-      "categories": ["3D", "Platformer"],
-      "developers": ["Devanand Asai"],
+      "categories": [ "3D", "Platformer" ],
+      "developers": [ "Devanand Asai" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/constructed/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/constructed/hero.jpg",
       "videos": [],
-      "images": 
-      [
+      "images": [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/constructed/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/constructed/shot-2.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/constructed/shot-3.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/constructed.json",
-      "inputSupport": ["keyboardMouse", "controller"],
+      "inputSupport": [ "keyboardMouse", "controller" ],
       "downloadSizeBytes": null
     },
     {
@@ -289,15 +302,15 @@
       "description": "There are some small problems!",
       "version": "1.0.1",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/small-problems-v1.0.1/Small.Problems.zip",
-      "categories": ["3D", "Game Jam", "Retro"],
-      "developers": ["Fliffan", "Subagent"],
+      "categories": [ "3D", "Game Jam", "Retro" ],
+      "developers": [ "Fliffan", "Subagent" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/small-problems/cover.jpg",
       "heroUrl": "",
       "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/small-problems.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     },
     {
@@ -306,20 +319,19 @@
       "description": "Hutao Platformer",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/slime-impact-v1.0.0/Slime.Impact.zip",
-      "categories": ["3D", "Platformer"],
-      "developers": ["Riley Gough"],
+      "categories": [ "3D", "Platformer" ],
+      "developers": [ "Riley Gough" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/slime-impact/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/slime-impact/hero.jpg",
       "videos": [],
-      "images": 
-      [
+      "images": [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/slime-impact/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/slime-impact/shot-2.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/slime-impact/shot-3.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/slime-impact.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     },
     {
@@ -328,20 +340,19 @@
       "description": "Something lurks in the shadows!",
       "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/the-forgotten-line-v0.1.0/The.Forgotten.Line.zip",
-      "categories": ["3D", "Tunnel", "Horror"],
-      "developers": ["Devanand Asai", "Riley Gough", "Hiro Starritt"],
+      "categories": [ "3D", "Tunnel", "Horror" ],
+      "developers": [ "Devanand Asai", "Riley Gough", "Hiro Starritt" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/hero.jpg",
       "videos": [],
-      "images":
-      [
+      "images": [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/shot-2.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/shot-3.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/the-forgotten-line.json",
-      "inputSupport": ["keyboardMouse", "controller"],
+      "inputSupport": [ "keyboardMouse", "controller" ],
       "downloadSizeBytes": null
     },
     {
@@ -350,20 +361,19 @@
       "description": "Earn 1,000,000 in 30 days to save your late grandfather’s farm from your ambitious brother",
       "version": "0.4.2",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/everdew-v0.4.2/Everdew.zip",
-      "categories": ["2D", "Game Jam"],
-      "developers": ["Devanand Asai", "Riley Gough", "Hiro Starritt", "Johan Cardozo"],
+      "categories": [ "2D", "Game Jam" ],
+      "developers": [ "Devanand Asai", "Riley Gough", "Hiro Starritt", "Johan Cardozo" ],
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/everdew/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/everdew/hero.jpg",
       "videos": [],
-      "images": 
-      [
+      "images": [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/everdew/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/everdew/shot-2.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/everdew/shot-3.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/everdew.json",
-      "inputSupport": ["keyboardMouse"],
+      "inputSupport": [ "keyboardMouse" ],
       "downloadSizeBytes": null
     }
   ]
