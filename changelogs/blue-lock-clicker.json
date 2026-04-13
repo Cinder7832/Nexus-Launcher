@@ -1,11 +1,11 @@
 {
-  "gameId": "a-knights-leap-of-faith",
+  "gameId": "blue-lock-clicker",
   "entries": [
     {
       "version": "1.0.0",
       "date": "2026-02-09",
       "title": "First release",
-      "text": "- Fully playable version of A Knights Leap of Faith"
+      "text": "- Fully playable version of Blue Lock Clicker"
     }
   ]
 }
