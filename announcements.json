@@ -1,6 +1,44 @@
 {
   "announcements": [
     {
+      "id": "nexus-launcher-4-0-1-update",
+      "title": "Nexus Launcher 4.0.1 Update",
+      "date": "2026-04-14",
+      "tag": "Launcher Update",
+      "body": [
+        "Nexus Launcher has been updated to version 4.0.1.",
+        "Headline Features",
+        "- Added a brand-new download progress bar to both the Store and Details pages, allowing you to view download percentage and cancel downloads directly.",
+        "- Redesigned toast notifications with a cleaner look and more detailed messaging.",
+        "- You can now favourite GIFs for quicker access.",
+        "- The GIF and emoji picker window can now be resized.",
+        "UI Improvements",
+        "- The Friend List button no longer shrinks when clicked.",
+        "- Added a grey hover state to the developer pill arrows and removed the transform animation from developer pills.",
+        "- Updated the chat header to show your friend's @username and improved the overall layout.",
+        "- Removed the translate animation from some buttons in Friends for a more consistent feel.",
+        "- The current chat now remains open when switching to Pending.",
+        "Quality of Life",
+        "- After uninstalling a game, you now remain on the Details page.",
+        "Backend Improvements",
+        "- The website link used by the Website button can now be updated remotely via GitHub.",
+        "Bug Fixes",
+        "- Fixed a major issue that prevented profile pictures from displaying correctly. If your profile picture still does not appear for other users immediately, re-adding it may be required to refresh it for everyone.",
+        "- Fixed an issue where the Downloads list and Recents did not update properly when installing a large number of games at the same time.",
+        "- Fixed the JavaScript error when opening announcements.",
+        "- Fixed a visual issue where hovered media items could appear cut off.",
+        "- Fixed the shadow underneath the hero image.",
+        "- Fixed an issue where you could open a Details page for external games your friends were playing, even though those games do not have a Details page.",
+        "- Fixed an issue where changing your display name in Comments or Friends did not update correctly in the Accounts section.",
+        "- Fixed UI issues at 150% DPI on 1920x1080 displays.",
+        "- Fixed a bug where the Store page would snap back to the top after installing a game.",
+        "- Fixed an issue where the \"No pending requests\" empty state would replay its entrance animation after returning from another window.",
+        "- Fixed forced auto-scrolling in Friends, although some minor inconsistencies may still remain.",
+        "- Fixed the time format in Friends.",
+        "- Fixed an issue that could cause the Friend List order to behave inconsistently, though a few minor inconsistencies may still remain."
+      ]
+    },
+    {
       "id": "blue-lock-clicker",
       "title": "Blue Lock Clicker Announcement",
       "date": "2026-04-13",
@@ -16,22 +54,13 @@
       "tag": "Game Update",
       "body": [
         "Momentum Bound has been updated to version 1.1.0.",
-        "Fixes & Improvements",
+        "Fixes &amp; Improvements",
         "- Fixed an issue when at full health, the player took red heart damage instead of spirit hearts, where viable.",
         "- Fixed bug where banana only granted player the heart upgrade on the floor after it had been picked up.",
         "- Fixed the item 'Guilt Soaked Ledger' where the UI clipped on wider screens.",
         "- Changed the damage SFX for the player, as consensus was that the original sound was annoying and off-putting.",
         "- Fixed bug where if the player clipped into a certain wall in the Craig Floor, they would be set to one health, have all items stripped from them and be transported to the 'Nightmare Zone'.",
         "- Located and removed 'Nightmare Zone'."
-      ]
-    },
-    {
-      "id": "eroded-sands",
-      "title": "Eroded Sands Announcement",
-      "date": "2026-04-08",
-      "tag": "New Game",
-      "body": [
-        "Eroded Sands is a small scale 3D desert diorama made with Unreal Engine, now available to play"
       ]
     }
   ]
