@@ -54,15 +54,6 @@
         "- Fixed the time format in Friends.",
         "- Fixed an issue that could cause the Friend List order to behave inconsistently, though a few minor inconsistencies may still remain."
       ]
-    },
-    {
-      "id": "blue-lock-clicker",
-      "title": "Blue Lock Clicker Announcement",
-      "date": "2026-04-13",
-      "tag": "New Game",
-      "body": [
-        "A fan game game of the Blue Lock series where you touch the plushie counterparts of them"
-      ]
     }
   ]
 }
