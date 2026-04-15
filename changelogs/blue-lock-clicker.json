@@ -2,6 +2,13 @@
   "gameId": "blue-lock-clicker",
   "entries": [
     {
+      "id": "blue-lock-clicker-0-2-0-update",
+      "title": "Blue Lock Clicker 0.2.0 Update",
+      "date": "2026-04-15",
+      "tag": "Game Update",
+      "body": "Blue Lock Clicker has been updated to version 0.2.0.\n\nNew Features:\n- TONS of new plushies that now go up to 100,000!\n- Plushies now have no background making them look better.\n\nBug Fixes:\n- Fixed Total Clicks Counter going weird when going above 10,000.\n- Fixed buttons in shop appearing weird on certain resolutions.\n\nA LOT MORE next update as well as important bug fixes which I have been informed about!"
+    },
+    {
       "version": "0.1.0",
       "date": "2026-04-13",
       "title": "First release",
