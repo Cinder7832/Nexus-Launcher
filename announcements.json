@@ -1,6 +1,23 @@
 {
   "announcements": [
     {
+      "id": "blue-lock-clicker-0-2-0-update",
+      "title": "Blue Lock Cliker 0.2.0 Update",
+      "date": "2026-04-15",
+      "tag": "Game Update",
+      "body": [
+        "Blue Lock Clicker has been updated to version 1.1.0.",
+        "New Features:",
+        "- TONS of new plushies that now go up to 100,000!",
+        "- Plushies now have no background making them look better.",
+        "Bug Fixes",
+        "- Fixed Total Clicks Counter going weird when going above 10,000.",
+        "- Buttons in shop appearing weird when on certain resolutions.",
+        " ",
+        "A LOT MORE next update as well as important Bug Fixes which I have been informed about!"
+      ]
+    }
+    {
       "id": "nexus-launcher-4-0-1-update",
       "title": "Nexus Launcher 4.0.1 Update",
       "date": "2026-04-14",
@@ -45,22 +62,6 @@
       "tag": "New Game",
       "body": [
         "A fan game game of the Blue Lock series where you touch the plushie counterparts of them"
-      ]
-    },
-    {
-      "id": "momentum-bound-1-1-0-update",
-      "title": "Momentum Bound 1.1.0 Update",
-      "date": "2026-04-12",
-      "tag": "Game Update",
-      "body": [
-        "Momentum Bound has been updated to version 1.1.0.",
-        "Fixes &amp; Improvements",
-        "- Fixed an issue when at full health, the player took red heart damage instead of spirit hearts, where viable.",
-        "- Fixed bug where banana only granted player the heart upgrade on the floor after it had been picked up.",
-        "- Fixed the item 'Guilt Soaked Ledger' where the UI clipped on wider screens.",
-        "- Changed the damage SFX for the player, as consensus was that the original sound was annoying and off-putting.",
-        "- Fixed bug where if the player clipped into a certain wall in the Craig Floor, they would be set to one health, have all items stripped from them and be transported to the 'Nightmare Zone'.",
-        "- Located and removed 'Nightmare Zone'."
       ]
     }
   ]
