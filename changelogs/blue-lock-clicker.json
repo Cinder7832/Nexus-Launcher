@@ -2,6 +2,13 @@
   "gameId": "blue-lock-clicker",
   "entries": [
     {
+      "id": "blue-lock-clicker-0-3-0-update",
+      "title": "Blue Lock Clicker 0.3.0 Update",
+      "date": "2026-04-15",
+      "tag": "Game Update",
+      "body": "Blue Lock Clicker has been updated to version 0.3.0.\n\nNew Features:\n- ALL plushies are now in the game!\n- Added a Quit button.\n- Added the new Trapping minigame!\n\nBug Fixes:\n- Fixed the Voice Slider not affecting voices.\n- Fixed Bachira and Chigiri still having white backgrounds in their games.\n- Fixed the Idle Clicker not showing visually after a manual click.\n- Fixed missing character data for new plushies introduced in v0.2.0.\n\nNext update:\n- 3 minigames are dropping in v0.4.0!\n\nLooking ahead:\n- v0.5.0 is going to be a big UI revamp."
+    },
+    {
       "id": "blue-lock-clicker-0-2-0-update",
       "title": "Blue Lock Clicker 0.2.0 Update",
       "date": "2026-04-15",
