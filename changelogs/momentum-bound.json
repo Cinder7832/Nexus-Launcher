@@ -2,15 +2,21 @@
   "gameId": "momentum-bound",
   "entries": [
     {
+      "version": "2.0.1",
+      "date": "2026-04-16",
+      "title": "Momentum Bound DLC",
+      "text": "Headline Features:\n- Added a Story tab that unlocks after beating the final boss.\n- Added a new save file state.\n- Added controller support.\n\nBug Fixes:\n- Fixed collider error where you could get stuck on doors.\n- Fixed room zone to keep trapdoor open."
+    },
+    {
       "version": "2.0.0",
       "date": "2026-04-16",
-      "title": "Momentum Bound DLC!",
+      "title": "Momentum Bound DLC",
       "text": "Headline Features:\n- Added a Story tab that unlocks after beating the final boss.\n- Added a new save file state.\n- Added controller support.\n\nBug Fixes:\n- Various bug fixes.\n\nSmall Improvements:\n- Small improvements across the game."
     },
     {
       "version": "1.1.0",
       "date": "2026-04-12",
-      "title": "Update 1.1.0",
+      "title": "Fixes and Improvements",
       "text": "- Fixed an issue when at full health, the player took red heart damage instead of spirit hearts, where viable.\n- Fixed bug where banana only granted player the heart upgrade on the floor after it had been picked up.\n- Fixed the item 'Guilt Soaked Ledger' where the UI clipped on wider screens.\n- Changed the damage SFX for the player, as consensus was that the original sound was annoying and off-putting.\n- Fixed bug where if the player clipped into a certain wall in the Craig Floor, they would be set to one health, have all items stripped from them and be transported to the 'Nightmare Zone'.\n- Located and removed 'Nightmare Zone'."
     },
     {
