@@ -2,6 +2,12 @@
   "gameId": "momentum-bound",
   "entries": [
     {
+      "version": "2.0.0",
+      "date": "2026-04-16",
+      "title": "Momentum Bound DLC!",
+      "text": "Headline Features:\n- Added a Story tab that unlocks after beating the final boss.\n- Added a new save file state.\n- Added controller support.\n\nBug Fixes:\n- Various bug fixes.\n\nSmall Improvements:\n- Small improvements across the game."
+    },
+    {
       "version": "1.1.0",
       "date": "2026-04-12",
       "title": "Update 1.1.0",
