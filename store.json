@@ -35,7 +35,7 @@
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/eroded-sands/shot-1.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/eroded-sands.json",
-      "inputSupport": [ "keyboardMouse" "controller" ],
+      "inputSupport": [ "keyboardMouse", "controller" ],
       "downloadSizeBytes": null
     },
     {
