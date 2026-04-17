@@ -5,7 +5,7 @@
       "version": "0.3.0",
       "date": "2026-04-17",
       "title": "Controller Support, Gameplay Tweaks &amp; Visual Improvements",
-      "text": "Headline Features:\n- Added controller support for easier menu navigation\n\nQuality of Life:\n- Moved the location of the Grump Rock Cooler\n- Decreased Spear Guard health\n- Changed the elevator logic so that it starts when the player is on it\n\nVisual Consistency Fixes:\n- Added more corner tiles that were missed on the map\n- Changed the size of buttons in the Main Menu\n- Revamped the look of the starting area"
+      "text": "Headline Feature:\n- Added controller support for easier menu navigation\n\nQuality of Life:\n- Moved the location of the Grump Rock Cooler\n- Decreased Spear Guard health\n- Changed the elevator logic so that it starts when the player is on it\n\nVisual Consistency Fixes:\n- Added more corner tiles that were missed on the map\n- Changed the size of buttons in the Main Menu\n- Revamped the look of the starting area"
     },
     {
       "version": "0.2.11",
