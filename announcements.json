@@ -8,7 +8,7 @@
       "body": [
         "Cubo has been updated to version 0.3.0.",
         "Headline Feature:",
-        "- Menu now has controller support for easier navigation.",
+        "- Added controller support for easier menu navigation.",
         "Quality of Life:",
         "- Moved the location of a cooler.",
         "- Decreased the spear guard's health.",
