@@ -1,6 +1,25 @@
 {
   "announcements": [
     {
+      "id": "cubo-0-3-0-update",
+      "title": "Cubo 0.3.0 Update",
+      "date": "2026-04-17",
+      "tag": "Game Update",
+      "body": [
+        "Cubo has been updated to version 0.3.0.",
+        "Headline Feature:",
+        "- Menu now has controller support for easier navigation.",
+        "Quality of Life:",
+        "- Moved the location of a cooler.",
+        "- Decreased the spear guard's health.",
+        "- Changed the elevator logic so that the elevator starts when the player is on it.",
+        "Visual Consistency Fixes:",
+        "- Added more corner tiles that were missed on the map.",
+        "- Changed the size of buttons in the Main Menu.",
+        "- Revamped the look of the starting area."
+      ]
+    },
+    {
       "id": "momentum-bound-v2-1-0-update",
       "title": "Momentum Bound v2.1.0 Update",
       "date": "2026-04-16",
@@ -36,44 +55,6 @@
         " ",
         "Next update, 3 MINIGAME DROP IN V0.4.0!",
         "V0.5.0 is gonna be a big UI revamp."
-      ]
-    },
-    {
-      "id": "nexus-launcher-4-0-1-update",
-      "title": "Nexus Launcher 4.0.1 Update",
-      "date": "2026-04-14",
-      "tag": "Launcher Update",
-      "body": [
-        "Nexus Launcher has been updated to version 4.0.1.",
-        "Headline Features and Fixes",
-        "- Added a brand-new download progress bar to both the Store and Details pages, allowing you to view download percentage and cancel downloads directly.",
-        "- Redesigned toast notifications with a cleaner look and more detailed messaging.",
-        "- Fixed a major issue that prevented profile pictures from displaying correctly. If your profile picture still does not appear for other users immediately, re-adding it may be required to refresh it for everyone.",
-        "- You can now favourite GIFs for quicker access.",
-        "- The GIF and emoji picker window can now be resized.",
-        "UI Improvements",
-        "- The Friend List button no longer shrinks when clicked.",
-        "- Added a grey hover state to the developer pill arrows and removed the transform animation from developer pills.",
-        "- Updated the chat header to show your friend's @username and improved the overall layout.",
-        "- Removed the translate animation from some buttons in Friends for a more consistent feel.",
-        "- The current chat now remains open when switching to Pending.",
-        "Quality of Life",
-        "- After uninstalling a game, you now remain on the Details page.",
-        "Backend Improvements",
-        "- The website link used by the Website button can now be updated remotely via GitHub.",
-        "Bug Fixes",
-        "- Fixed an issue where the Downloads list and Recents did not update properly when installing a large number of games at the same time.",
-        "- Fixed the JavaScript error when opening announcements.",
-        "- Fixed a visual issue where hovered media items could appear cut off.",
-        "- Fixed the shadow underneath the hero image.",
-        "- Fixed an issue where you could open a Details page for external games your friends were playing, even though those games do not have a Details page.",
-        "- Fixed an issue where changing your display name in Comments or Friends did not update correctly in the Accounts section.",
-        "- Fixed UI issues at 150% DPI on 1920x1080 displays.",
-        "- Fixed a bug where the Store page would snap back to the top after installing a game.",
-        "- Fixed an issue where the \"No pending requests\" empty state would replay its entrance animation after returning from another window.",
-        "- Fixed forced auto-scrolling in Friends, although some minor inconsistencies may still remain.",
-        "- Fixed the time format in Friends.",
-        "- Fixed an issue that could cause the Friend List order to behave inconsistently, though a few minor inconsistencies may still remain."
       ]
     }
   ]
