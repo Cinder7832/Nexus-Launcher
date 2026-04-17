@@ -16,7 +16,7 @@
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/blue-lock-clicker/shot-1.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/blue-lock-clicker.json",
-      "inputSupport": [ "keyboardMouse" ],
+      "inputSupport": [ "keyboardMouse" "controller" ],
       "downloadSizeBytes": null
     },
     {
