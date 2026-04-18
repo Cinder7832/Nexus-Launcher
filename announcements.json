@@ -16,7 +16,9 @@
         "Visual Consistency Fixes:",
         "- Added more corner tiles that were missed on the map.",
         "- Changed the size of buttons in the Main Menu.",
-        "- Revamped the look of the starting area."
+        "- Revamped the look of the starting area.",
+        "Bug Fix:",
+        "- Fixed a bug which caused the game to crash when switching tabs",
       ]
     },
     {
