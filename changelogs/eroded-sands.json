@@ -2,6 +2,12 @@
   "gameId": "eroded-sands",
   "entries": [
     {
+      "version": "1.0.1",
+      "date": "2026-04-20",
+      "title": "Minecraft",
+      "text": "- You can now go inside the minecart!\n- Removed Herobrine"
+    }
+    {
       "version": "1.0.0",
       "date": "2026-04-08",
       "title": "First release",
