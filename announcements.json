@@ -1,6 +1,25 @@
 {
   "announcements": [
     {
+      "id": "blue-lock-clicker-0-4-0-update",
+      "title": "Blue Lock Clicker 0.4.0 Update",
+      "date": "2026-04-20",
+      "tag": "Game Update",
+      "body": [
+        "Blue Lock Clicker has been updated to version 0.4.0.",
+        "New Features:",
+        "- NEW WEIGHT LIFTS MINIGAME! ",
+        "- NEW COPY CAT MINIGAME!",
+        "- NEW KING’S TERRITORY MINIGAME!",
+        "Bug Fixes:",
+        "- Some UI fixes in minigame hub.",
+        "- Idle clicker upgrades plushies.",
+        "Changes:",
+        "- Trapping Minigame nerfed to 20 needed to win.",
+        "- Removed Chigiri and Bachira from their own minigames.",
+      ]
+    },
+    {
       "id": "cubo-0-3-0-update",
       "title": "Cubo 0.3.0 Update",
       "date": "2026-04-17",
@@ -36,27 +55,6 @@
         "Bug Fixes:",
         "- Fixed collider error where you could get stuck on doors",
         "- Fixed room zone to keep trapdoor open"
-      ]
-    },
-    {
-      "id": "blue-lock-clicker-0-3-0-update",
-      "title": "Blue Lock Clicker 0.3.0 Update",
-      "date": "2026-04-15",
-      "tag": "Game Update",
-      "body": [
-        "Blue Lock Clicker has been updated to version 0.3.0.",
-        "New Features:",
-        "- ALL Plushies are now in the game!",
-        "- Quit Button!",
-        "- NEW TRAPPING MINIGAME!",
-        "Bug Fixes:",
-        "- Voice Slider not affecting Voices.",
-        "- Bachira and Chigiri still having white backgrounds in their games.",
-        "- Idle Clicker not showing visually after a manual click.",
-        "- Missing character data for new plushies in V0.2.0.",
-        " ",
-        "Next update, 3 MINIGAME DROP IN V0.4.0!",
-        "V0.5.0 is gonna be a big UI revamp."
       ]
     }
   ]
