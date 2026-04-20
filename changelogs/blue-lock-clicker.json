@@ -2,6 +2,12 @@
   "gameId": "blue-lock-clicker",
   "entries": [
     {
+      "version": "0.4.0",
+      "date": "2026-04-20",
+      "title": "3 new minigames, fixes, and balance changes",
+      "text": "Blue Lock Clicker has been updated to version 0.4.0.\n\nNew Features:\n- NEW WEIGHT LIFTS MINIGAME!\n- NEW COPY CAT MINIGAME!\n- NEW KING’S TERRITORY MINIGAME!\n\nBug Fixes:\n- Some UI fixes in Minigame Hub.\n- Fixed Idle Clicker upgrades plushies.\n\nChanges:\n- Trapping Minigame nerfed to 20 needed to win.\n- Removed Chigiri and Bachira from their own minigames."
+    },
+    {
       "version": "0.3.0",
       "date": "2026-04-15",
       "title": "New features and fixes",
