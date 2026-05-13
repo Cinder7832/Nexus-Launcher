@@ -279,7 +279,7 @@
       "id": "constructed",
       "name": "Constructed",
       "description": "A platformer based in a construction site",
-      "version": "0.4000.0",
+      "version": "0.10000.0",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/constructed-v1.0.0/Constructed.zip",
       "categories": [ "3D", "Platformer" ],
       "developers": [ "Devanand Asai" ],
