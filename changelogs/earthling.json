@@ -5,7 +5,9 @@
       "version": "1.0.0",
       "date": "2026-01-29",
       "title": "First release",
-      "text": "- Fully playable game"
+      "body": [
+        "- Fully playable game"
+      ]
     }
   ]
 }

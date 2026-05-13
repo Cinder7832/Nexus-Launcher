@@ -5,7 +5,11 @@
       "version": "1.0.0",
       "date": "2026-01-05",
       "title": "First release",
-      "text": "- Created the player and animations\n- Created the Environment\n- Designed level layout"
+      "body": [
+        "- Created the player and animations",
+        "- Created the Environment",
+        "- Designed level layout"
+      ]
     }
   ]
 }

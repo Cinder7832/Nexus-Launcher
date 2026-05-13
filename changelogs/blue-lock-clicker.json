@@ -5,25 +5,63 @@
       "version": "0.4.0",
       "date": "2026-04-20",
       "title": "3 new minigames, fixes, and balance changes",
-      "text": "Blue Lock Clicker has been updated to version 0.4.0.\n\nNew Features:\n- NEW WEIGHT LIFTS MINIGAME!\n- NEW COPY CAT MINIGAME!\n- NEW KING’S TERRITORY MINIGAME!\n\nBug Fixes:\n- Some UI fixes in Minigame Hub.\n- Fixed Idle Clicker upgrades plushies.\n\nChanges:\n- Trapping Minigame nerfed to 20 needed to win.\n- Removed Chigiri and Bachira from their own minigames."
+      "body": [
+        "Blue Lock Clicker has been updated to version 0.4.0.",
+        "New Features:",
+        "- NEW WEIGHT LIFTS MINIGAME!",
+        "- NEW COPY CAT MINIGAME!",
+        "- NEW KING’S TERRITORY MINIGAME!",
+        "Bug Fixes:",
+        "- Some UI fixes in Minigame Hub.",
+        "- Fixed Idle Clicker upgrades plushies.",
+        "Changes:",
+        "- Trapping Minigame nerfed to 20 needed to win.",
+        "- Removed Chigiri and Bachira from their own minigames."
+      ]
     },
     {
       "version": "0.3.0",
       "date": "2026-04-15",
       "title": "New features and fixes",
-      "text": "Blue Lock Clicker has been updated to version 0.3.0.\n\nNew Features:\n- ALL plushies are now in the game!\n- Added a Quit button.\n- Added the new Trapping minigame!\n\nBug Fixes:\n- Fixed the Voice Slider not affecting voices.\n- Fixed Bachira and Chigiri still having white backgrounds in their games.\n- Fixed the Idle Clicker not showing visually after a manual click.\n- Fixed missing character data for new plushies introduced in v0.2.0.\n\nNext update:\n- 3 minigames are dropping in v0.4.0!\n\nLooking ahead:\n- v0.5.0 is going to be a big UI revamp."
+      "body": [
+        "Blue Lock Clicker has been updated to version 0.3.0.",
+        "New Features:",
+        "- ALL plushies are now in the game!",
+        "- Added a Quit button.",
+        "- Added the new Trapping minigame!",
+        "Bug Fixes:",
+        "- Fixed the Voice Slider not affecting voices.",
+        "- Fixed Bachira and Chigiri still having white backgrounds in their games.",
+        "- Fixed the Idle Clicker not showing visually after a manual click.",
+        "- Fixed missing character data for new plushies introduced in v0.2.0.",
+        "Next update:",
+        "- 3 minigames are dropping in v0.4.0!",
+        "Looking ahead:",
+        "- v0.5.0 is going to be a big UI revamp."
+      ]
     },
     {
       "version": "0.2.0",
       "date": "2026-04-15",
       "title": "New plushies and fixes",
-      "text": "Blue Lock Clicker has been updated to version 0.2.0.\n\nNew Features:\n- TONS of new plushies that now go up to 100,000!\n- Plushies now have no background making them look better.\n\nBug Fixes:\n- Fixed Total Clicks Counter going weird when going above 10,000.\n- Fixed buttons in shop appearing weird on certain resolutions.\n\nA LOT MORE next update as well as important bug fixes which I have been informed about!"
+      "body": [
+        "Blue Lock Clicker has been updated to version 0.2.0.",
+        "New Features:",
+        "- TONS of new plushies that now go up to 100,000!",
+        "- Plushies now have no background making them look better.",
+        "Bug Fixes:",
+        "- Fixed Total Clicks Counter going weird when going above 10,000.",
+        "- Fixed buttons in shop appearing weird on certain resolutions.",
+        "A LOT MORE next update as well as important bug fixes which I have been informed about!"
+      ]
     },
     {
       "version": "0.1.0",
       "date": "2026-04-13",
       "title": "First release",
-      "text": "- Fully playable version of Blue Lock Clicker"
+      "body": [
+        "- Fully playable version of Blue Lock Clicker"
+      ]
     }
   ]
 }

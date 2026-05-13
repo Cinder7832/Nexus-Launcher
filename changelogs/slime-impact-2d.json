@@ -5,19 +5,75 @@
       "version": "3.0.0",
       "date": "2026-02-08",
       "title": "Major update",
-      "text": "New Features\n- Pyro Metre\n- Flame Ability\n- Heal Ability\n- Player Dashing\n- Stamina system\n- Custom Cursor\n- FULL controller support\n- Skip through dialogue option\n- Respawn invincibility\n- Visual damage on player\n\nChanges / Bug Fixes\n- Scientist buffs\n- Lucifer buffs and nerfs\n- Red Riot buffs\n- Camera changes\n- Ifa text scaled correctly\n- Trigger hitbox changes\n- Player no longer dies when Ifa dies due to Geo Shield\n- Ghost Bomb now explodes when touching certain objects\n- Scientist roll hitbox fixed\n- Mouse no longer locks after going to the menu\n- Anemo burst now boosts the player horizontally\n- Spikes slower\n- Ending now works correctly\n- Ghost Bomb now affects Lucifer and minions\n- Geo Shield visual layer fixed\n- Slime King no longer gets stuck on cage\n- Scientist animation pixel issues fixed\n- Door trigger sound spam fixed\n- Attack hitboxes no longer trigger unintended objects\n- Ground check fixed\n- Screen no longer goes black after Nod-Krai teleport\n- Scientist music now stops correctly\n- Fade into ocean added\n- Options menu no longer appears behind UI\n- Mission text from dialogue no longer appears oversized"
+      "body": [
+        "New Features",
+        "- Pyro Metre",
+        "- Flame Ability",
+        "- Heal Ability",
+        "- Player Dashing",
+        "- Stamina system",
+        "- Custom Cursor",
+        "- FULL controller support",
+        "- Skip through dialogue option",
+        "- Respawn invincibility",
+        "- Visual damage on player",
+        "Changes / Bug Fixes",
+        "- Scientist buffs",
+        "- Lucifer buffs and nerfs",
+        "- Red Riot buffs",
+        "- Camera changes",
+        "- Ifa text scaled correctly",
+        "- Trigger hitbox changes",
+        "- Player no longer dies when Ifa dies due to Geo Shield",
+        "- Ghost Bomb now explodes when touching certain objects",
+        "- Scientist roll hitbox fixed",
+        "- Mouse no longer locks after going to the menu",
+        "- Anemo burst now boosts the player horizontally",
+        "- Spikes slower",
+        "- Ending now works correctly",
+        "- Ghost Bomb now affects Lucifer and minions",
+        "- Geo Shield visual layer fixed",
+        "- Slime King no longer gets stuck on cage",
+        "- Scientist animation pixel issues fixed",
+        "- Door trigger sound spam fixed",
+        "- Attack hitboxes no longer trigger unintended objects",
+        "- Ground check fixed",
+        "- Screen no longer goes black after Nod-Krai teleport",
+        "- Scientist music now stops correctly",
+        "- Fade into ocean added",
+        "- Options menu no longer appears behind UI",
+        "- Mission text from dialogue no longer appears oversized"
+      ]
     },
     {
       "version": "2.0.0",
       "date": "2026-02-03",
       "title": "Major update",
-      "text": "- Scientist buffs (damage speed, movement speed increase)\n- Fixed black screen bug after teleporting to Nod-Krai\n- Added end cutscene and credits\n- Fixed player collisions\n- Added in-game pause menu\n- Insane Mode added\n- Hardcore Mode and Insane Mode badges\n- Skip text for intro cutscene\n- Popups fully integrated and fixed\n- Ifa changes (he now follows the player if too far)\n- Fixed Anemo ability not being granted from Red Riot\n- Changed prefab size of Ghost Bomb\n- Fixed main menu image size\n- Slime King, Scientist and Lucifer now heal on player death\n- And more!"
+      "body": [
+        "- Scientist buffs (damage speed, movement speed increase)",
+        "- Fixed black screen bug after teleporting to Nod-Krai",
+        "- Added end cutscene and credits",
+        "- Fixed player collisions",
+        "- Added in-game pause menu",
+        "- Insane Mode added",
+        "- Hardcore Mode and Insane Mode badges",
+        "- Skip text for intro cutscene",
+        "- Popups fully integrated and fixed",
+        "- Ifa changes (he now follows the player if too far)",
+        "- Fixed Anemo ability not being granted from Red Riot",
+        "- Changed prefab size of Ghost Bomb",
+        "- Fixed main menu image size",
+        "- Slime King, Scientist and Lucifer now heal on player death",
+        "- And more!"
+      ]
     },
     {
       "version": "1.0.0",
       "date": "2026-02-02",
       "title": "First release",
-      "text": "- Fully playable version of Slime Impact 2D"
+      "body": [
+        "- Fully playable version of Slime Impact 2D"
+      ]
     }
   ]
 }
