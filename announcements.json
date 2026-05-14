@@ -39,44 +39,6 @@
         "- Trapping Minigame nerfed to 20 needed to win.",
         "- Removed Chigiri and Bachira from their own minigames."
       ]
-    },
-    {
-      "id": "cubo-0-3-0-update",
-      "title": "Cubo 0.3.0 Update",
-      "date": "2026-04-17",
-      "tag": "Game Update",
-      "body": [
-        "Cubo has been updated to version 0.3.0.",
-        "Headline Feature:",
-        "- Added keyboard and controller support for easier menu navigation.",
-        "Quality of Life:",
-        "- Moved the location of the Grump Rock cooler.",
-        "- Decreased the spear guard's health.",
-        "- Changed the elevator logic so that the elevator starts when the player is on it.",
-        "Visual Consistency Fixes:",
-        "- Added more corner tiles that were missed on the map.",
-        "- Changed the size of buttons in the Main Menu.",
-        "- Revamped the look of the starting area.",
-        "Bug Fix:",
-        "- Fixed a bug which caused the game to crash when switching tabs"
-      ]
-    },
-    {
-      "id": "momentum-bound-v2-1-0-update",
-      "title": "Momentum Bound v2.1.0 Update",
-      "date": "2026-04-16",
-      "tag": "Game Update",
-      "body": [
-        "Momentum Bound has been updated to version 2.1.0.",
-        "Momentum Bound DLC patch notes:",
-        "Headline Features:",
-        "- Added a story tab that unlocks after beating final boss",
-        "- Added new save file state",
-        "- Added controller support",
-        "Bug Fixes:",
-        "- Fixed collider error where you could get stuck on doors",
-        "- Fixed room zone to keep trapdoor open"
-      ]
     }
   ]
 }
