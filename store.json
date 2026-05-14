@@ -1,6 +1,24 @@
 {
   "games": [
     {
+      "id": "spiral",
+      "name": "SPIRAL",
+      "description": "A singleplayer game by Lauren. Play with keyboard and mouse.",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/spiral-v1.0.0/SPIRAL.zip",
+      "categories": [ "" ],
+      "developers": [ "Lauren" ],
+      "engine": "Unity Engine",
+      "imageUrl": "",
+      "heroUrl": "",
+      "videos": [],
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/spiral.json",
+      "inputSupport": [ "keyboardMouse" ],
+      "playerModes": [ "singleplayer" ],
+      "downloadSizeBytes": null
+    },
+    {
       "id": "blue-lock-clicker",
       "name": "Blue Lock Clicker",
       "description": "A fan game game of the Blue Lock series where you touch the plushie counterparts of them.",
