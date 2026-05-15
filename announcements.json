@@ -1,6 +1,16 @@
 {
   "announcements": [
     {
+      "id": "the-hollowing-1-0-0-release",
+      "title": "New Game The Hollowing!",
+      "date": "2026-05-15",
+      "tag": "New Game",
+      "body": [
+        "The Hollowing, a new singleplayer game by Riley Gough, is now available!",
+        "The Hollowing is a 3D horror game about a person uncovering their past."
+      ]
+    },
+    {
       "id": "spiral-1-0-0-release",
       "title": "New Game SPIRAL!",
       "date": "2026-05-14",
