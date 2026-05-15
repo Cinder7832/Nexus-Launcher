@@ -1,6 +1,28 @@
 {
   "games": [
     {
+      "id": "the-hollowing",
+      "name": "The Hollowing",
+      "description": "A 3D horror game about a person uncovering their past.",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/the-hollowing-v1.0.0/The.Hollowing.zip",
+      "categories": [ "3D", "Horror" ],
+      "developers": [ "Riley Gough" ],
+      "engine": "Unity Engine",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-hollowing/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-hollowing/hero.jpg",
+      "videos": [],
+      "images": [
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-hollowing/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-hollowing/shot-3.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-hollowing/shot-4.jpg"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/the-hollowing.json",
+      "inputSupport": [ "keyboardMouse" ],
+      "playerModes": [ "singleplayer" ],
+      "downloadSizeBytes": null
+    },
+    {
       "id": "spiral",
       "name": "SPIRAL",
       "description": "",

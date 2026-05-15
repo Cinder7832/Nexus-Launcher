@@ -1,0 +1,15 @@
+{
+  "gameId": "the-hollowing",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "date": "2026-05-15",
+      "title": "First release",
+      "body": [
+        "- Initial release",
+        "- Singleplayer",
+        "- Keyboard and mouse supported"
+      ]
+    }
+  ]
+}
