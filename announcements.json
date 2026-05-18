@@ -1,5 +1,15 @@
 {
   "announcements": [
+      {
+      "id": "the-nightshift-out-of-this-world-1-0-0-release",
+      "title": "New Game The Nightshift OOTW!",
+      "date": "2026-05-18",
+      "tag": "New Game",
+      "body": [
+        "The Nightshift is a new horror game from 'The Videogame Doctor!",
+        "Play The Nightshift now!"
+      ]
+    },
     {
       "id": "breeze-client-v5-0-0-release",
       "title": "Breeze Client v5.0.0 Is Here!",
