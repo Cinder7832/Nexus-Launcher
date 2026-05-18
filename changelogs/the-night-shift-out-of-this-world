@@ -1,1 +1,15 @@
-
+{
+  "gameId": "the-night-shift-out-of-this-world",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "date": "2026-05-18",
+      "title": "First release",
+      "body": [
+        "- Initial release",
+        "- Singleplayer",
+        "- Keyboard and mouse supported"
+      ]
+    }
+  ]
+}
