@@ -1,6 +1,17 @@
 {
   "announcements": [
-      {
+    {
+      "id": "l3gd-clicker-1-0-0-release",
+      "title": "New Game L3GD Clicker!",
+      "date": "2026-05-23",
+      "tag": "New Game",
+      "body": [
+        "L3GD Clicker, a new singleplayer game by Isaac Nash, is now available!",
+        "If you've ever wanted to be in a videogame, now you can be! In L3GD Clicker, everyone in L3GD can be in the game.",
+        "Play L3GD Clicker now!"
+      ]
+    },
+    {
       "id": "the-nightshift-out-of-this-world-1-0-0-release",
       "title": "New Game The Nightshift OOTW!",
       "date": "2026-05-18",
@@ -123,25 +134,6 @@
         "- Fixed a bug that could cause the friends message notifier to stop working.",
         "- Fixed scrolling in Announcements.",
         "- Fixed migration problems from older versions."
-      ]
-    },
-    {
-      "id": "the-hollowing-1-0-0-release",
-      "title": "New Game The Hollowing!",
-      "date": "2026-05-15",
-      "tag": "New Game",
-      "body": [
-        "The Hollowing, a new singleplayer game by Riley Gough, is now available!",
-        "The Hollowing is a 3D horror game about a person uncovering their past."
-      ]
-    },
-    {
-      "id": "spiral-1-0-0-release",
-      "title": "New Game SPIRAL!",
-      "date": "2026-05-14",
-      "tag": "New Game",
-      "body": [
-        "SPIRAL, a new singleplayer game by Lauren, is now available!"
       ]
     }
   ]

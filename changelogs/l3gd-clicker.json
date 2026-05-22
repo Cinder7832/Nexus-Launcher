@@ -1,0 +1,13 @@
+{
+  "gameId": "l3gd-clicker",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "date": "2026-05-23",
+      "title": "Initial Release",
+      "body": [
+        "- Initial release of L3GD Clicker!"
+      ]
+    }
+  ]
+}

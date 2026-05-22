@@ -1,6 +1,24 @@
 {
   "games": [
-      {
+    {
+      "id": "l3gd-clicker",
+      "name": "L3GD Clicker",
+      "description": "If you've ever wanted to be in a videogame, now you can be! In L3GD Clicker, everyone in L3GD can be in the game.",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/l3gd-clicker-v1.0.0/L3GD.Clicker.zip",
+      "categories": [ "2D", "Clicker" ],
+      "developers": [ "Isaac Nash" ],
+      "engine": "Unity Engine",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/l3gd-clicker/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/l3gd-clicker/hero.jpg",
+      "videos": [],
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/l3gd-clicker.json",
+      "inputSupport": [ "keyboardMouse" ],
+      "playerModes": [ "singleplayer" ],
+      "downloadSizeBytes": null
+    },
+    {
       "id": "the-night-shift-out-of-this-world",
       "name": "The Nightshift Out of This World",
       "description": "A detective horror game!",
