@@ -1,6 +1,42 @@
 {
   "announcements": [
     {
+      "id": "breeze-client-5-0-1-release",
+      "title": "Breeze Client v5.0.1 Is Here!",
+      "date": "2026-05-28",
+      "tag": "App Update",
+      "body": [
+        "Breeze Client has been updated to version 5.0.1.",
+        "Headline Features:",
+        "- Added title bar quick launch, letting you pin up to 3 games and access 2 recently played games directly from the title bar",
+        "- Added Settings controls to enable or disable quick launch and manage pinned games",
+        "- Added profile banners that display an image behind your name in the chat header and Friends sidebar",
+        "- Added Settings and Details page options to control whether your game activity is visible in Socials",
+        "Socials & Messaging:",
+        "- Added toast notifications for new group chat invites",
+        "- The Store segmented control for All Games and Collections now uses the same design and animation as other segmented controls",
+        "- Refactored the emoji and GIF picker layout with clearer header and body sections",
+        "- Added a clear button to the emoji and GIF picker search inputs for quickly resetting search terms",
+        "- Updated pinned message animations and selection states",
+        "- Opening pinned messages while search filters are active now closes pinned messages, and vice versa",
+        "- Fixed the alignment of the search filter box with pinned messages",
+        "- Fixed the close button alignment in pinned messages",
+        "- Fixed a bug where favouriting GIFs in chat stopped working",
+        "Performance & Rendering:",
+        "- Added Chromium command line switches to prevent renderer backgrounding, improving responsiveness when switching between applications",
+        "- Added focus-return quiet window logic to suppress animations during focus transitions",
+        "- Updated CSS with isolation and transform properties for smoother rendering and layout performance",
+        "- Refactored sidebar rendering to reduce visual disruptions during chat interactions",
+        "- Added a helper to detect when the app window is active, reducing unnecessary work while in the background",
+        "- Optimized profile data fetching by requesting specific fields instead of wildcard selection across multiple components",
+        "- Adjusted polling intervals for incoming messages and notifications to lower resource usage while keeping notifications reliable",
+        "Bug Fixes & Quality of Life:",
+        "- Reimplemented scrolling for long announcements",
+        "- Updated the App ID in main.js to match package.json build.appId so pinned taskbar shortcuts group correctly with the running window on Windows",
+        "- Fixed additional DOM flash issues, although some may still remain"
+      ]
+    },
+    {
       "id": "cubo-0-4-0-release",
       "title": "Cubo v0.4.0 Is Here!",
       "date": "2026-05-28",
@@ -48,16 +84,6 @@
         "L3GD Clicker, a new singleplayer game by Isaac Nash, is now available!",
         "If you've ever wanted to be in a videogame, now you can be! In L3GD Clicker, everyone in L3GD can be in the game.",
         "Play L3GD Clicker now!"
-      ]
-    },
-    {
-      "id": "the-nightshift-out-of-this-world-1-0-0-release",
-      "title": "New Game The Nightshift OOTW!",
-      "date": "2026-05-18",
-      "tag": "New Game",
-      "body": [
-        "The Nightshift is a new horror game from 'The Videogame Doctor!",
-        "Play The Nightshift now!"
       ]
     }
   ]
