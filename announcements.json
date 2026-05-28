@@ -1,6 +1,26 @@
 {
   "announcements": [
     {
+      "id": "cubo-0-4-0-release",
+      "title": "Cubo v0.4.0 Is Here!",
+      "date": "2026-05-28",
+      "tag": "Game Update",
+      "body": [
+        "Cubo has been updated to version 0.4.0.",
+        "Headline Features:",
+        "- Added a save and load system with 4 save slots that players can manage, including load game and save confirmation dialogs in the Main Menu.",
+        "- Added a new boot splash screen for Breeze Client.",
+        "- Time-Dialled now requires stamina.",
+        "- Implemented Parry Stun for Grump Rock.",
+        "- Fixed fullscreen crashes when tabbing out of the game.",
+        "Also in this update:",
+        "- Shackled Bomber combat tweaks and Escape to go back in UI menus.",
+        "- Focus management, cursor handling, background play, and smarter resolution defaults on first launch.",
+        "- Gold pickup fix, updated lost gold sprite, improved Tinted Gold visuals, and various UI and world polish.",
+        "Update Cubo from the Store or Library to play the latest version!"
+      ]
+    },
+    {
       "id": "l3gd-clicker-1-0-0-release",
       "title": "New Game L3GD Clicker!",
       "date": "2026-05-23",
