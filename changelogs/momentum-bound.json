@@ -2,6 +2,17 @@
   "gameId": "momentum-bound",
   "entries": [
     {
+      "version": "3.0.0",
+      "date": "2026-06-27",
+      "title": "Momentum Bound Lore DLC",
+      "body": [
+        "- Added lore DLC.",
+        "- Each boss now dropps a lore page.",
+        "- Minor bug fixes.",
+        "- Quality of life updates."
+      ]
+    },
+    {
       "version": "2.1.0",
       "date": "2026-04-16",
       "title": "Momentum Bound DLC",
