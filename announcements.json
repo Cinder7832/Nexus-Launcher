@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "momentum-bound-v3.0.0",
+      "title": "Momentum Bound v3.0.0!",
+      "date": "2026-06-27",
+      "tag": "Game Update",
+      "body": [
+        "- Added lore DLC.",
+        "- Each boss now dropps a lore page.",
+        "- Minor bug fixes.",
+        "- Quality of life updates."
+      ]
+    },
+    {
       "id": "breeze-client-5-0-1-release",
       "title": "Breeze Client v5.0.1 Is Here!",
       "date": "2026-05-28",
@@ -73,17 +85,6 @@
         "- Enhanced dropped Tinted Gold with settling mechanics and bobbing for better visual feedback",
         "Bug Fixes:",
         "- Fixed a bug where lost gold could not be picked up"
-      ]
-    },
-    {
-      "id": "l3gd-clicker-1-0-0-release",
-      "title": "New Game L3GD Clicker!",
-      "date": "2026-05-23",
-      "tag": "New Game",
-      "body": [
-        "L3GD Clicker, a new singleplayer game by Isaac Nash, is now available!",
-        "If you've ever wanted to be in a videogame, now you can be! In L3GD Clicker, everyone in L3GD can be in the game.",
-        "Play L3GD Clicker now!"
       ]
     }
   ]
