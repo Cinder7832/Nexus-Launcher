@@ -48,7 +48,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-hollowing/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-hollowing/hero.jpg",
       "videos": [],
-      "images": [
+      "images": 
+      [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-hollowing/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-hollowing/shot-3.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-hollowing/shot-4.jpg"
@@ -88,7 +89,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/blue-lock-clicker/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/blue-lock-clicker/hero.jpg",
       "videos": [],
-      "images": [
+      "images": 
+      [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/blue-lock-clicker/shot-1.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/blue-lock-clicker.json",
@@ -108,7 +110,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/eroded-sands/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/eroded-sands/hero.jpg",
       "videos": [],
-      "images": [
+      "images": 
+      [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/eroded-sands/shot-1.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/eroded-sands.json",
@@ -128,7 +131,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound/hero.jpg",
       "videos": [],
-      "images": [
+      "images": 
+      [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound/shot-1.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/momentum-bound.json",
@@ -219,7 +223,8 @@
       "engine": "Unity Engine",
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound-demo/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound-demo/hero.png",
-      "videos": [
+      "videos": 
+      [
         "https://github.com/Cinder7832/Nexus-Launcher/blob/main/videos/momentum-bound/Momentum%20Bound%20Teaser%20Trailer.mp4",
         "https://github.com/Cinder7832/Nexus-Launcher/blob/main/videos/momentum-bound/Momentum%20Bound%20Trailer.mp4"
       ],
@@ -295,7 +300,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/high-time/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/high-time/hero.jpg",
       "videos": [],
-      "images": [
+      "images": 
+      [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/high-time/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/high-time/shot-2.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/high-time/shot-3.jpg",
@@ -318,7 +324,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/spillways/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/spillways/hero.jpg",
       "videos": [],
-      "images": [
+      "images": 
+      [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/spillways/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/spillways/shot-2.jpg"
       ],
@@ -357,7 +364,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/cubo/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/cubo/hero.jpg",
       "videos": [],
-      "images": [
+      "images": 
+      [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/cubo/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/cubo/shot-2.jpg"
       ],
@@ -378,7 +386,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/constructed/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/constructed/hero.jpg",
       "videos": [],
-      "images": [
+      "images": 
+      [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/constructed/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/constructed/shot-2.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/constructed/shot-3.jpg"
@@ -417,7 +426,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/slime-impact/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/slime-impact/hero.jpg",
       "videos": [],
-      "images": [
+      "images": 
+      [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/slime-impact/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/slime-impact/shot-2.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/slime-impact/shot-3.jpg"
@@ -439,7 +449,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/hero.jpg",
       "videos": [],
-      "images": [
+      "images": 
+      [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/shot-2.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/the-forgotten-line/shot-3.jpg"
@@ -461,7 +472,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/everdew/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/everdew/hero.jpg",
       "videos": [],
-      "images": [
+      "images": 
+      [
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/everdew/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/everdew/shot-2.jpg",
         "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/everdew/shot-3.jpg"
