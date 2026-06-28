@@ -220,8 +220,7 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound-demo/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-bound-demo/hero.png",
       "videos": [
-        "https://github.com/Cinder7832/Nexus-Launcher/blob/main/videos/Momentum%20Bound%20Teaser%20Trailer.mp4",
-        "https://github.com/Cinder7832/Nexus-Launcher/blob/main/videos/MOMENTUM%20BOUND%20TRAILER.mp4"
+        "https://github.com/Cinder7832/Nexus-Launcher/blob/main/videos/momentum-bound/Momentum%20Bound%20Teaser%20Trailer.mp4"
       ],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/momentum-bound-demo.json",
