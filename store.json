@@ -385,8 +385,7 @@
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/constructed.json",
       "inputSupport": [ "keyboardMouse", "controller" ],
-      "playerModes": [ "singleplayer" ],
-      "downloadSizeBytes": null
+      "playerModes": [ "singleplayer" ]
     },
     {
       "id": "small-problems",
