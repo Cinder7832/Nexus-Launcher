@@ -2,7 +2,7 @@
   "collections": [
     {
       "title": "Craig Series",
-      "gameIds": ["momentum-bound","momentum-bound-demo", "rhat", "high-time", "spillways", "momentum", "everdew"]
+      "gameIds": ["momentum-unbound","momentum-bound","momentum-bound-demo", "rhat", "high-time", "spillways", "momentum", "everdew"]
     },
     {
       "title": "Momentum Series",
