@@ -1,5 +1,22 @@
 {
   "games": [
+   {
+      "id": "momentum-unbound",
+      "name": "Momentum Unbound",
+      "description": "You need to escape, again.",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/momentum-unbound-v1.0.0/Momentum.Unbound.zip",
+      "categories": [ "2D", "Bullet Hell" ],
+      "developers": [ "Isaac Nash" ],
+      "engine": "Unity Engine",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/momentum-unbound/cover.jpg",
+      "heroUrl": "",
+      "videos": [],
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/momentum-unbound.json",
+      "inputSupport": [ "keyboardMouse" ],
+      "playerModes": [ "singleplayer" ]
+    },
     {
       "id": "l3gd-clicker",
       "name": "L3GD Clicker",

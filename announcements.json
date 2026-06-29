@@ -1,6 +1,15 @@
 {
   "announcements": [
     {
+      "id": "momentum-unbound-v1.0.0",
+      "title": "Momentum Unbound v1.0.0!",
+      "date": "2026-06-29",
+      "tag": "Game Release",
+      "body": [
+        "- Momentum Unbound released!."
+      ]
+    },
+    {
       "id": "momentum-bound-v3.0.0",
       "title": "Momentum Bound v3.0.0!",
       "date": "2026-06-27",
@@ -48,44 +57,5 @@
         "- Fixed additional DOM flash issues, although some may still remain"
       ]
     },
-    {
-      "id": "cubo-0-4-0-release",
-      "title": "Cubo v0.4.0 Is Here!",
-      "date": "2026-05-28",
-      "tag": "Game Update",
-      "body": [
-        "Cubo has been updated to version 0.4.0.",
-        "Headline Features:",
-        "- Added a save and load system with 4 save slots that players can manage",
-        "- Updated the Main Menu with load game functionality and confirmation dialogs for save management",
-        "- Added a new boot splash screen for Breeze Client",
-        "- Time-Dialled now requires stamina",
-        "- Implemented Parry Stun for Grump Rock",
-        "- Fixed fullscreen crashes when tabbing out of the game",
-        "Gameplay & Combat:",
-        "- Removed the parry circle for Shackled Bomber",
-        "- Added hit flash to Shackled Bomber, which was missing in previous versions",
-        "- Added Duk to one of the chests",
-        "Quality of Life:",
-        "- Press Escape in UI menus to go back",
-        "- Made the pause menu slide transition faster to match the main menu",
-        "- Refined tutorial prompts to use PlayerPrefs for one time display logic to work with the save and load system",
-        "- Improved navigation settings for Main Menu and Pause Menu UI elements",
-        "- Added controller volume repeat delay, repeat rate, and step settings for improved audio control",
-        "Focus & Display:",
-        "- Added application focus management to the Main Menu and Pause Menu to prevent input when the game is not in focus",
-        "- Updated cursor visibility and lock state based on focus changes",
-        "- The game now runs in the background",
-        "- Resolution is only applied from saved preferences when explicitly set by the user",
-        "- First launch now uses the system default resolution when no saved preference exists",
-        "Visual & World:",
-        "- Adjusted local positions of game objects for better alignment",
-        "- Modified tilemap indices and sprite references for improved visual consistency",
-        "- Updated the sprite for lost gold",
-        "- Enhanced dropped Tinted Gold with settling mechanics and bobbing for better visual feedback",
-        "Bug Fixes:",
-        "- Fixed a bug where lost gold could not be picked up"
-      ]
-    }
   ]
 }
