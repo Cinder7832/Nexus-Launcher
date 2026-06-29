@@ -56,6 +56,6 @@
         "- Updated the App ID in main.js to match package.json build.appId so pinned taskbar shortcuts group correctly with the running window on Windows",
         "- Fixed additional DOM flash issues, although some may still remain"
       ]
-    },
+    }
   ]
 }
