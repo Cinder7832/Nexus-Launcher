@@ -6,7 +6,7 @@
     },
     {
       "title": "Momentum Series",
-      "gameIds": ["momentum-bound","momentum-bound-demo", "momentum", "momentum-unbound"]
+      "gameIds": ["momentum-unbound", "momentum-bound","momentum-bound-demo", "momentum"]
     }
   ]
 }
