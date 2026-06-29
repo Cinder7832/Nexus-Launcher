@@ -7,6 +7,14 @@
     {
       "title": "Momentum Series",
       "gameIds": ["momentum-unbound", "momentum-bound","momentum-bound-demo", "momentum"]
+    },
+    {
+      "title": "Team Chiburren",
+      "gameIds": ["everdew"]
+    },
+    {
+      "title": "Lonley Devs",
+      "gameIds": ["spillways"]
     }
   ]
 }
