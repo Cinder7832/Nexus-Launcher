@@ -2,7 +2,7 @@
 
 **Breeze Client** is a free Windows game launcher. Browse games, install them with one click, launch from your library, chat with friends, and keep track of your playtime — all in one app.
 
-**Website:** [breeze-client.base44.app](https://cinder7832.github.io/Breeze-Client-Website/)
+**Website:** [Breeze Client Website](https://cinder7832.github.io/Breeze-Client-Website/)
 
 ---
 
