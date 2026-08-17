@@ -1,6 +1,23 @@
 {
   "games": [
    {
+      "id": "rebound",
+      "name": "Rebound",
+      "description": "A 3D movement shooter.",
+      "version": "0.0.1",
+      "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/rebound-v0.0.1/Rebound.zip",
+      "categories": [ "3D", "Movement Shooter" ],
+      "developers": [ "Devanand Asai", "Hiro Starritt", "Riley Gough", "Johan Cardozo" ],
+      "engine": "Unity Engine",
+      "imageUrl": "",
+      "heroUrl": "",
+      "videos": [],
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/rebound.json",
+      "inputSupport": [ "keyboardMouse" ],
+      "playerModes": [ "singleplayer" ]
+    },
+   {
       "id": "momentum-unbound",
       "name": "Momentum Unbound",
       "description": "You need to escape, again.",

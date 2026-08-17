@@ -1,0 +1,13 @@
+{
+  "gameId": "rebound",
+  "entries": [
+    {
+      "version": "0.0.1",
+      "date": "2026-08-17",
+      "title": "Initial Beta Release",
+      "body": [
+        "- Rebound beta released!"
+      ]
+    }
+  ]
+}
