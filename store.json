@@ -3,7 +3,7 @@
    {
       "id": "rebound",
       "name": "Rebound",
-      "description": "A 3D movement shooter.",
+      "description": "A 3D movement shooter (Beta)",
       "version": "0.0.1",
       "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/rebound-v0.0.1/Rebound.zip",
       "categories": [ "3D", "Movement Shooter" ],
