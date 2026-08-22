@@ -1,4 +1,6 @@
 {
   "websiteUrl": "https://cinder7832.github.io/Breeze-Client-Website",
-  "githubUrl": "https://github.com/Cinder7832/Nexus-Launcher"
+  "githubUrl": "https://github.com/Cinder7832/Nexus-Launcher",
+  "gifProvider": "giphy",
+  "giphyApiKey": "w3ttggCp03Auc942vVyyehgTQbUw7QsL"
 }
