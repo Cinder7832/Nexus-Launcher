@@ -1,6 +1,17 @@
 {
   "announcements": [
     {
+      "id": "momentum-bound-v3.5.0",
+      "title": "Momentum Bound v3.5.0!",
+      "date": "2026-09-03",
+      "tag": "Game Update",
+      "body": [
+        "- Fixed issue with lore pages dlc where the lore page got stuck under the menu meaning the game needed to be restarted",
+        "- Fixed issue where controller couldnt click in the pause menu",
+        "- Quality of life updates."
+      ]
+    },
+    {
       "id": "rebound-v0.0.1",
       "title": "Rebound v0.0.1!",
       "date": "2026-08-17",
