@@ -2,6 +2,16 @@
   "gameId": "momentum-bound",
   "entries": [
     {
+      "version": "3.5.0",
+      "date": "2026-09-03",
+      "title": "Momentum Bound Patch v3.5",
+      "body": [
+        "- Fixed issue with lore pages dlc where the lore page got stuck under the menu meaning the game needed to be restarted",
+        "- Fixed issue where controller couldnt click in the pause menu",
+        "- Quality of life updates."
+      ]
+    },
+    {
       "version": "3.0.0",
       "date": "2026-06-27",
       "title": "Momentum Bound Lore DLC",
