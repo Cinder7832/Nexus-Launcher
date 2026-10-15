@@ -1,6 +1,16 @@
 {
   "announcements": [
     {
+      "id": "suds-&-specters-announcement",
+      "title": "Suds & Specters!",
+      "date": "2026-10-15",
+      "tag": "New Game!",
+      "body": [
+        "Check out Abhinav's new game on itch",
+        "https://anz-games.itch.io/suds-spectres"
+      ]
+    },
+    {
       "id": "momentum-bound-v3.5.0",
       "title": "Momentum Bound v3.5.0!",
       "date": "2026-09-03",
@@ -18,27 +28,6 @@
       "tag": "Game Release",
       "body": [
         "- Rebound released!"
-      ]
-    },
-    {
-      "id": "momentum-unbound-v1.0.0",
-      "title": "Momentum Unbound v1.0.0!",
-      "date": "2026-06-29",
-      "tag": "Game Release",
-      "body": [
-        "- Momentum Unbound released!."
-      ]
-    },
-    {
-      "id": "momentum-bound-v3.0.0",
-      "title": "Momentum Bound v3.0.0!",
-      "date": "2026-06-27",
-      "tag": "Game Update",
-      "body": [
-        "- Added lore DLC.",
-        "- Each boss now dropps a lore page.",
-        "- Minor bug fixes.",
-        "- Quality of life updates."
       ]
     }
   ]
