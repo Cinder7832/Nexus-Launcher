@@ -1,0 +1,13 @@
+{
+  "gameId": "ravensdown",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-15",
+      "title": "First release",
+      "body": [
+        "- Fully playable version of Ravensdown"
+      ]
+    }
+  ]
+}
