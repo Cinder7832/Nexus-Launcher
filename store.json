@@ -1,5 +1,25 @@
 {
   "games": [
+    {
+      "id": "ravensdown",
+      "name": "Ravensdown",
+      "description": "A 3D village diorama",
+      "version": "1.0.0",
+      "zipUrl": "https://drive.usercontent.google.com/download?id=167i8-sgF1J_sC4GUfJIpcEfQ67uItir3&export=download&authuser=0&confirm=t&uuid=8c0053d3-a6b2-4b19-b6cd-a8b451462a74&at=AMrWOn3pitukI1GDtluW-OAnPnff%3A1792101808198",
+      "categories": [ "3D", "Diorama" ],
+      "developers": [ "Devanand Asai" ],
+      "engine": "Unity Engine",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/ravensdown/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/ravensdown/hero.jpg",
+      "videos": [],
+      "images": 
+      [
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/ravensdown/shot-1.jpg"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/rebound.json",
+      "inputSupport": [ "keyboardMouse", "controller" ],
+      "playerModes": [ "singleplayer" ]
+    },
    {
       "id": "rebound",
       "name": "Rebound",
