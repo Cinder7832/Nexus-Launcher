@@ -1,5 +1,32 @@
 {
   "games": [
+      {
+      "id": "temporal-shift",
+      "name": "Temporal Shift",
+      "description": "A time shifting puzzle game where you must switch between different time zones to solve puzzles and progress through levels.",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/temporal-shift-v1.0.0/Temporal.Shift.zip",
+      "categories": [ "3D", "Puzzle" ],
+      "developers": [ "Abhinav Saha" ],
+      "engine": "Unity Engine",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/temporal-shift/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/temporal-shift/hero.jpg",
+      "videos": [],
+      "images": 
+      [
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/temporal-shift/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/temporal-shift/shot-2.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/temporal-shift/shot-3.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/temporal-shift/shot-4.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/temporal-shift/shot-5.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/temporal-shift/shot-6.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/temporal-shift/shot-7.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/temporal-shift/shot-8.jpg"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/temporal-shift.json",
+      "inputSupport": [ "keyboardMouse" ],
+      "playerModes": [ "singleplayer" ]
+    },
     {
       "id": "gem-alert",
       "name": "Gem Alert",
