@@ -1,0 +1,13 @@
+{
+  "gameId": "gem-alert",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-21",
+      "title": "Initial Release",
+      "body": [
+        "- Gem Alert released!"
+      ]
+    }
+  ]
+}
