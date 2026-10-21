@@ -1,6 +1,27 @@
 {
   "games": [
     {
+      "id": "gem-alert",
+      "name": "Gem Alert",
+      "description": "Gem Alert is a 2D platformer inspiredd by Pizza Tower, where you have to excape from the fat ugly police oficer with the money and steal the gem fr. A and D to move left and right, W to jump, and Shift to Sprint.",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/gem-alert-v1.0.0/Gem.Alert.zip",
+      "categories": [ "2D", "Platformer" ],
+      "developers": [ "Alfie Ladd", "Bailey", "Gigglesaurus", "Lauren" ],
+      "engine": "Unity Engine",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/gem-alert/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/gem-alert/hero.jpg",
+      "videos": [],
+      "images": 
+      [
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/gem-alert/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/images/gem-alert/shot-2.jpg"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/gem-alert.json",
+      "inputSupport": [ "keyboardMouse" ],
+      "playerModes": [ "singleplayer" ]
+    },
+    {
       "id": "ravensdown",
       "name": "Ravensdown",
       "description": "A 3D village diorama",

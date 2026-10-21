@@ -1,6 +1,15 @@
 {
   "announcements": [
     {
+      "id": "gem-alert",
+      "title": "Gem Alert!",
+      "date": "2026-08-17",
+      "tag": "New Game",
+      "body": [
+        "I know everyone had been waiting for this so much."
+      ]
+    },
+    {
       "id": "suds-&-specters-announcement",
       "title": "Suds & Specters!",
       "date": "2026-10-15",
@@ -19,15 +28,6 @@
         "- Fixed issue with lore pages dlc where the lore page got stuck under the menu meaning the game needed to be restarted",
         "- Fixed issue where controller couldnt click in the pause menu",
         "- Quality of life updates."
-      ]
-    },
-    {
-      "id": "rebound-v0.0.1",
-      "title": "Rebound v0.0.1!",
-      "date": "2026-08-17",
-      "tag": "Game Release",
-      "body": [
-        "- Rebound released!"
       ]
     }
   ]
