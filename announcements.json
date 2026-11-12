@@ -1,6 +1,15 @@
 {
   "announcements": [
     {
+      "id": "no-path-announcement",
+      "title": "No Path",
+      "date": "2026-11-12",
+      "tag": "New Game",
+      "body": [
+        "Check out Isaac's new game!"
+      ]
+    },
+    {
       "id": "temporal-shift-announcement",
       "title": "Temporal Shift!",
       "date": "2026-10-21",
@@ -17,16 +26,6 @@
       "tag": "New Game",
       "body": [
         "I know everyone had been waiting for this so much."
-      ]
-    },
-    {
-      "id": "suds-&-specters-announcement",
-      "title": "Suds & Specters!",
-      "date": "2026-10-15",
-      "tag": "New Game",
-      "body": [
-        "Check out Abhinav's new game on itch",
-        "https://anz-games.itch.io/suds-spectres"
       ]
     }
   ]
