@@ -1,6 +1,15 @@
 {
   "announcements": [
     {
+      "id": "magic-and-monsters",
+      "title": "Magic and Monsters",
+      "date": "2026-11-19",
+      "tag": "New Game",
+      "body": [
+        "New puzzel game by Kate!"
+      ]
+    },
+    {
       "id": "seal-break",
       "title": "Seal Break",
       "date": "2026-11-19",
