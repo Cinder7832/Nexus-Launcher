@@ -1,5 +1,22 @@
 {
   "games": [
+      {
+      "id": "magic-and-monsters",
+      "name": "Magic and Monsters",
+      "description": "",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/magic-and-monsters-v1.0.0/Magic.and.Monsters.zip",
+      "categories": [ "2D", "Puzzle" ],
+      "developers": [ "Katherine Allen" ],
+      "engine": "Unity Engine",
+      "imageUrl": "",
+      "heroUrl": "",
+      "videos": [],
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/magic-and-monsters.json",
+      "inputSupport": [ "keyboardMouse" ],
+      "playerModes": [ "singleplayer" ]
+    },
     {
       "id": "seal-break",
       "name": "Seal Break",
