@@ -1,6 +1,23 @@
 {
   "games": [
     {
+      "id": "seal-break",
+      "name": "Seal Break",
+      "description": "Full game coming soon (Possibly...maybe...probaby not)",
+      "version": "0.0.1",
+      "zipUrl": "https://github.com/Cinder7832/Nexus-Launcher/releases/download/seal-break-v1.0.0/Seal.Break.zip",
+      "categories": [ "2D" ],
+      "developers": [ "Johan Cardozo" ],
+      "engine": "Unity Engine",
+      "imageUrl": "",
+      "heroUrl": "",
+      "videos": [],
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/Nexus-Launcher/main/changelogs/steal-break.json",
+      "inputSupport": [ "keyboardMouse" ],
+      "playerModes": [ "singleplayer" ]
+    },
+    {
       "id": "no-path",
       "name": "No Path",
       "description": "Your very own adventure, explore dungeons and castles in this text adventure game. However not everything is as it seems...",
