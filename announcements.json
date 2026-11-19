@@ -1,6 +1,15 @@
 {
   "announcements": [
     {
+      "id": "seal-break",
+      "title": "Seal Break",
+      "date": "2026-11-19",
+      "tag": "New Game",
+      "body": [
+        "Full game coming soon (Possibly...maybe...probaby not)"
+      ]
+    }
+    {
       "id": "no-path-announcement",
       "title": "No Path",
       "date": "2026-11-12",
