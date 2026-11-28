@@ -26,25 +26,6 @@
       "body": [
         "Check out Isaac's new game!"
       ]
-    },
-    {
-      "id": "temporal-shift-announcement",
-      "title": "Temporal Shift!",
-      "date": "2026-10-21",
-      "tag": "New Game",
-      "body": [
-        "Check out Abhinav's other new game on itch",
-        "https://anz-games.itch.io/suds-spectres"
-      ]
-    },
-    {
-      "id": "gem-alert",
-      "title": "Gem Alert!",
-      "date": "2026-10-21",
-      "tag": "New Game",
-      "body": [
-        "I know everyone had been waiting for this so much."
-      ]
     }
   ]
 }
